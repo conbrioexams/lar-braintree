@@ -1,5 +1,5 @@
 {
-    "name": "odannyc/laravel5-braintree",
+    "name": "conbrioexams/lar-braintree",
     "description": "Braintree Service Provider for Laravel 5",
     "keywords": ["braintree","braintree laravel 5"],
     "homepage": "https://github.com/odannyc/laravel-braintree",
