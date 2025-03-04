@@ -26,7 +26,7 @@
     "require": {
         "php": ">=5.4.0",
         "illuminate/support": "5.x",
-        "braintree/braintree_php": "3.x"
+        "braintree/braintree_php": "6.x"
     },
     "autoload": {
         "classmap": [
